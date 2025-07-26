@@ -48,9 +48,9 @@ struct Memory
 };
 
 // Defenitions
-#define OLED_POWER_PIN D4
+#define OLED_POWER_PIN D7
 #define VDIV_ENABLE_PIN D5
-#define LONG_PRESS_PIN D7
+#define LONG_PRESS_PIN D6
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
